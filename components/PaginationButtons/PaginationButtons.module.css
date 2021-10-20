@@ -1,0 +1,15 @@
+.container { 
+    display: flex;
+    justify-content: center ;
+}
+.container button {
+    margin: 10px;
+    width: 100px;
+    cursor: pointer;
+}
+.disabled {
+    display: none;
+}
+.pageNumber {
+    text-align: center;
+}

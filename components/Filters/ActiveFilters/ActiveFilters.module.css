@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.container span {
+    color: #777;
+    font-size: 0.875rem;
+    margin-right: 10px;
+}
+.appliedFilter {
+    text-decoration: underline;
+}
+#clearAll:hover {
+    cursor: pointer;
+    color: #222;
+}

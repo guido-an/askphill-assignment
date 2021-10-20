@@ -1,0 +1,11 @@
+.container {
+    margin: 20px 0 30px;
+}
+.selectInput {
+    width: 31%;
+    padding: 5px;
+    margin: 0 1%;
+}
+.selectInput:focus {
+    outline: none
+}
